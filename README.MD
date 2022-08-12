@@ -1,4 +1,5 @@
-# GoFrame Template For SingleRepo
+# GoFrame 练习之作
+用于学习goframe
 
 Project Makefile Commands: 
 - `make cli`: Install or Update to the latest GoFrame CLI tool.
